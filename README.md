@@ -11,4 +11,4 @@
 
 # 笔记
 
-[lecture 0] (cs50-week0)
+[lecture 0] (lecture-0)
