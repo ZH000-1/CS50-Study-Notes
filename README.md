@@ -2,7 +2,7 @@
 
 在读一个普通本科的理工天坑专业，并不是中国大学计算机大类的科班学生。因为对AI很有兴趣，而Ai又和计算机、编程有关，想更好的用/了解ai,所以就不嫌麻烦的开始学习了。当然也有专业太差这个因素，想着学会了糊弄一份工作。
 
-经过挑挑拣拣，选择了CS50课程【https://www.youtube.com/watch?v=UuIEbpQms8o&t=41s】在我写下这一段的一天看完了David Malan的第一节。
+经过挑挑拣拣，选择了[CS50课程](https://www.youtube.com/watch?v=UuIEbpQms8o&t=41s)在我写下这一段的一天看完了David Malan的第一节。
 
 他讲得很不错，更像是在巩固计算机学习者的知识地基。
 
@@ -11,4 +11,4 @@
 
 # 笔记
 
-lecture 09（cs50-week0）
+[lecture 0] (cs50-week0)
