@@ -11,4 +11,4 @@
 
 # 笔记
 
-[lecture 0](Lecture-0.md)
+[lecture 0](notes/Lecture-0.md)
